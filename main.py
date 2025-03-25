@@ -1,5 +1,5 @@
 print ("Ignat")
 def start()
-    Fale = True
+    False = True
     while True:
         print(rkkrkrkkk)
