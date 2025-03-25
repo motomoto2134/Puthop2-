@@ -1,5 +1,5 @@
 print ("Ignat")
 def start()
-    Fale = Ture
+    Fale = True
     while True:
         print(rkkrkrkkk)
